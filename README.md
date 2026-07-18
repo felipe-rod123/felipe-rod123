@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🎓 computer engineering student<br>🚀 frontend & mobile enthusiast<br>🇧🇷 hello from Brazil<br>📚 always learning</p>
+<p align="left">🎓 computer engineering MSc student<br>🚀 data science, PQC, frontend & mobile enthusiast<br>🇧🇷 hello from Brazil<br>📚 always learning</p>
 
 ###
 
